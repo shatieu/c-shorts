@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/ANre/c/pb071/hw04/gethash.c
+malloc.h
+-
+hash_helper.h
+C:/ANre/c/pb071/hw04/hash_helper.h
+stdio.h
+C:/ANre/c/pb071/hw04/stdio.h
+string.h
+C:/ANre/c/pb071/hw04/string.h
+
+C:/ANre/c/pb071/hw04/hash_helper.c
+string.h
+-
+hash_helper.h
+C:/ANre/c/pb071/hw04/hash_helper.h
+
+C:/ANre/c/pb071/hw04/hash_helper.h
+

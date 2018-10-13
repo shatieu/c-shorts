@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/ANre/c/pb071/hw04/hash_helper.c
+string.h
+-
+hash_helper.h
+C:/ANre/c/pb071/hw04/hash_helper.h
+
+C:/ANre/c/pb071/hw04/hash_helper.h
+
+C:/ANre/c/pb071/hw04/main.c
+

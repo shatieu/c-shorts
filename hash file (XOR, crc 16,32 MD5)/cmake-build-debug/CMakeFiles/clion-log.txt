@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2017.1.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\ANre\c\pb071\hw04
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/ANre/c/pb071/hw04/cmake-build-debug
